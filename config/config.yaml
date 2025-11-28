@@ -149,8 +149,8 @@ platforms:
 
 
   #  财经投资类 
-  - id: "wallstreetcn-hot"
-    name: "华尔街见闻 最热"
-  - id: "wallstreetcn-quick"
-    name: "华尔街见闻 快讯"
-  - id: "wallstreetcn-news"
+  # - id: "wallstreetcn-hot"
+    # name: "华尔街见闻 最热"
+  # - id: "wallstreetcn-quick"
+    # name: "华尔街见闻 快讯"
+  # - id: "wallstreetcn-news"
